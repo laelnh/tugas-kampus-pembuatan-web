@@ -1,3 +1,9 @@
+body{
+    background-image:url(kiw.png);
+}
+header{
+    background-image: url(kiw.png);
+}
 input{
     background-color: white;
 }
